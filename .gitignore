@@ -1,0 +1,8 @@
+
+.vs/
+*.vsidx
+*.VC.db
+*.obj
+*.exe
+*.pdb
+
